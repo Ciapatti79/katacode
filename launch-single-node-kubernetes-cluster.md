@@ -1,10 +1,12 @@
 #Launch Single Node Kubernetes Cluster
-
-*minikube versioni*
-*minikube start*
-
+```
+minikube versioni
+minikube start
+```
 #Show cluster status
+```
 *kubectl cluster-info*
+```
 
 #Show json dump
 *kubectl cluster-info dump*
