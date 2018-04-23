@@ -1,13 +1,13 @@
 #Launch Single Node Kubernetes Cluster
 
-* *minikube version
-* *minikube start
+*minikube versioni*
+*minikube start*
 
 #Show cluster status
-* *kubectl cluster-info
+*kubectl cluster-info*
 
 #Show json dump
-kubectl cluster-info dump
+*kubectl cluster-info dump*
 
 #Starting deployment
 kubectl run first-deployment --image=katacoda/docker-http-server --port=80
