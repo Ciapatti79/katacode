@@ -1,12 +1,10 @@
-# katacode
+#Launch Single Node Kubernetes Cluster
 
-Launch Single Node Kubernetes Cluster
-
-minikube version
-minikube start
+* *minikube version
+* *minikube start
 
 #Show cluster status
-kubectl cluster-info
+* *kubectl cluster-info
 
 #Show json dump
 kubectl cluster-info dump
